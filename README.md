@@ -7,5 +7,9 @@ Our client is interested in opening a surfboard and ice cream shop in Oahu.  By 
 We have been provided with weather data from January 2010 to August 2017.  We will analyze the weather data for the months of June and December for suitability for the surf and ice cream project.
 
 ### Results
+The statistics for the June and December temperature data are as follows:
+
+<img src=Resources/june_statistics.png></img>
+<img src=Resources/december_statistics.png></img><br><br>
 
 ## Summary
