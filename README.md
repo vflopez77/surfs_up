@@ -1,1 +1,1 @@
-# Surfs Up - Analysis of Oahu Weather
+# Surfs Up - Weather Analysis
