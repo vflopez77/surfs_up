@@ -21,7 +21,9 @@ According to our data analyis, the Surf and Ice Cream venture seems viable - the
 
 Additionally, the year-round precipitation is manageably low.
 
-Here are the statistics for the June and December precipitation data are as follows:
+Here are the statistics for the June and December precipitation data:
 
 <img src=Resources/june_precip.png></img>
 <img src=Resources/december_precip.png></img><br>
+
+Give this information, we recommend that W. Avy proceed with his plan for a Surf and Ice Cream shop in Oahu.
